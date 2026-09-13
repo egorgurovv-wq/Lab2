@@ -21,7 +21,11 @@
   9. Конец
 
 БЛОК-СХЕМА:
+
+
 <img width="337" height="753" alt="изображение" src="https://github.com/user-attachments/assets/7846f9db-67db-4e35-a89e-6bc83c4fb08f" />
+
+
 https://drive.google.com/file/d/1SQjsHY4sYHXN_AHl8RT1Jmxb7C5XeCNZ/view?usp=drive_link
 
 2.Реализация программы.
